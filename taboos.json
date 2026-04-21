@@ -610,7 +610,8 @@
             "limit": 10
           }
         ],
-        "deck_requirements": "size:50, card:06008, card:06009, random:subtype:basicweakness",
+        "deck_requirements": "size:50, card:06008, card:06009, random:subtype:basicweakness"
+      },
       {
         "code": "07268",
         "exceptional": false,
