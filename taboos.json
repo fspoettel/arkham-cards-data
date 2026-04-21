@@ -610,24 +610,7 @@
             "limit": 10
           }
         ],
-        "deck_requirements": {
-          "size": 50,
-          "card": {
-            "06008": {
-              "06008": "06008"
-            },
-            "06009": {
-              "06009": "06009"
-            }
-          },
-          "random": [
-            {
-              "target": "subtype",
-              "value": "basicweakness"
-            }
-          ]
-        }
-      },
+        "deck_requirements": "size:50, card:06008, card:06009, random:subtype:basicweakness",
       {
         "code": "07268",
         "exceptional": false,
@@ -984,23 +967,7 @@
             "limit": 10
           }
         ],
-        "deck_requirements": {
-          "size": 50,
-          "card": {
-            "06008": {
-              "06008": "06008"
-            },
-            "06009": {
-              "06009": "06009"
-            }
-          },
-          "random": [
-            {
-              "target": "subtype",
-              "value": "basicweakness"
-            }
-          ]
-        },
+        "deck_requirements": "size:50, card:06008, card:06009, random:subtype:basicweakness",
         "replacement_back_text": "Mutated.\n<b>Deck Size</b>: 50.\n<b>Secondary Class Choice</b>: At deck creation, choose Mystic ([mystic]), Rogue ([rogue]), or Survivor ([survivor]).\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, up to 10 level 0-1 events and/or skills of your chosen secondary class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 3 copies of Occult Evidence, Shocking Discovery, 1 random basic weakness."
       },
       {
@@ -1453,23 +1420,7 @@
             "limit": 10
           }
         ],
-        "deck_requirements": {
-          "size": 50,
-          "card": {
-            "06008": {
-              "06008": "06008"
-            },
-            "06009": {
-              "06009": "06009"
-            }
-          },
-          "random": [
-            {
-              "target": "subtype",
-              "value": "basicweakness"
-            }
-          ]
-        },
+        "deck_requirements": "size:50, card:06008, card:06009, random:subtype:basicweakness",
         "replacement_back_text": "Mutated.\n<b>Deck Size</b>: 50.\n<b>Secondary Class Choice</b>: At deck creation, choose Mystic ([mystic]), Rogue ([rogue]), or Survivor ([survivor]).\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, up to 10 level 0-1 events and/or skills of your chosen secondary class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 3 copies of Occult Evidence, Shocking Discovery, 1 random basic weakness."
       },
       {
@@ -1934,23 +1885,7 @@
             "limit": 10
           }
         ],
-        "deck_requirements": {
-          "size": 50,
-          "card": {
-            "06008": {
-              "06008": "06008"
-            },
-            "06009": {
-              "06009": "06009"
-            }
-          },
-          "random": [
-            {
-              "target": "subtype",
-              "value": "basicweakness"
-            }
-          ]
-        },
+        "deck_requirements": "size:50, card:06008, card:06009, random:subtype:basicweakness",
         "replacement_back_text": "Mutated.\n<b>Deck Size</b>: 50.\n<b>Secondary Class Choice</b>: At deck creation, choose Mystic ([mystic]), Rogue ([rogue]), or Survivor ([survivor]).\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, up to 10 level 0-1 events and/or skills of your chosen secondary class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 3 copies of Occult Evidence, Shocking Discovery, 1 random basic weakness."
       },
       {
@@ -2460,23 +2395,7 @@
             "limit": 10
           }
         ],
-        "deck_requirements": {
-          "size": 50,
-          "card": {
-            "06008": {
-              "06008": "06008"
-            },
-            "06009": {
-              "06009": "06009"
-            }
-          },
-          "random": [
-            {
-              "target": "subtype",
-              "value": "basicweakness"
-            }
-          ]
-        },
+        "deck_requirements": "size:50, card:06008, card:06009, random:subtype:basicweakness",
         "replacement_back_text": "Mutated.\n<b>Deck Size</b>: 50.\n<b>Secondary Class Choice</b>: At deck creation, choose Mystic ([mystic]), Rogue ([rogue]), or Survivor ([survivor]).\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, up to 10 level 0-1 events and/or skills of your chosen secondary class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 3 copies of Occult Evidence, Shocking Discovery, 1 random basic weakness."
       },
       {
@@ -2970,23 +2889,7 @@
             "limit": 10
           }
         ],
-        "deck_requirements": {
-          "size": 50,
-          "card": {
-            "06008": {
-              "06008": "06008"
-            },
-            "06009": {
-              "06009": "06009"
-            }
-          },
-          "random": [
-            {
-              "target": "subtype",
-              "value": "basicweakness"
-            }
-          ]
-        },
+        "deck_requirements": "size:50, card:06008, card:06009, random:subtype:basicweakness",
         "replacement_back_text": "Mutated.\n<b>Deck Size</b>: 50.\n<b>Secondary Class Choice</b>: At deck creation, choose Mystic ([mystic]), Rogue ([rogue]), or Survivor ([survivor]).\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, up to 10 level 0-1 events and/or skills of your chosen secondary class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 3 copies of Occult Evidence, Shocking Discovery, 1 random basic weakness."
       },
       {
